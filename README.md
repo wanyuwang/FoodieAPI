@@ -20,8 +20,6 @@ This API can fit for almost all of the food magazins at Foursquare:
 5. Fodor's 
 ...
 
-* This API is wrote for a company and I cannot share the sensitive info to the public, so I delete some code before I put here. 
-
 
 By calling the API, the images below are what we can get.
 
