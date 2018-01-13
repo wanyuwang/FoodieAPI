@@ -1,11 +1,11 @@
-# MyAPI
+# FoodieAPI
 
-As a foodie, I had wrote two API to get restaurants data from public food magazins at Foursquare and Yelp. 
+As a foodie, I wrote two APIs to get restaurant data from public food magazins using Foursquare and Yelp APIs. 
 
 The one that I list is for Foursquare.
 
 By calling this API, we can get:
-1. restanrants name
+1. restaurant name
 2. location
 3. description
 4. city
